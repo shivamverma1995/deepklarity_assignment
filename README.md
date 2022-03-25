@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 ![Screenshot](https://github.com/shivamverma1995/deepklarity_assignment/blob/main/screenshots/com.example.deepklarity_assign_Screenshot_2022.03.26_00.12.07.png)
 ![Screenshot](https://github.com/shivamverma1995/deepklarity_assignment/blob/main/screenshots/com.example.deepklarity_assign_Screenshot_2022.03.26_00.12.28.png)
 ![Screenshot](https://github.com/shivamverma1995/deepklarity_assignment/blob/main/screenshots/com.example.deepklarity_assign_Screenshot_2022.03.26_00.12.34.png)
+<img src="https://github.com/shivamverma1995/deepklarity_assignment/blob/main/screenshots/com.example.deepklarity_assign_Screenshot_2022.03.26_00.12.34.png)" width="100" height="100"/>
