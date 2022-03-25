@@ -17,4 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ![Alt text](https://github.com/shivamverma1995/deepklarity_assignment/blob/main/screenshots/com.example.deepklarity_assign_Screenshot_2022.03.26_00.12.07.png
  "First Screen")
-
+![Alt text](https://github.com/shivamverma1995/deepklarity_assignment/blob/main/screenshots/com.example.deepklarity_assign_Screenshot_2022.03.26_00.12.28.png
+ "Loading Second Screen")
+![Alt text](https://github.com/shivamverma1995/deepklarity_assignment/blob/main/screenshots/com.example.deepklarity_assign_Screenshot_2022.03.26_00.12.34.png
+ "Second Screen")
